@@ -1,5 +1,5 @@
 # elo
-Elo-based ranking system for Jedi Academy.
+Elo-based ranking system for Jedi Academy. Only tested with ++ servers: https://github.com/Razish/japp.
 
 Implementation starts here https://github.com/nullonesix/elo/blob/main/g_active.cpp#L2035.
 
